@@ -7,4 +7,4 @@ A simple one page COVID dashboard that pull data from an open API
 3. got the folder COVICALC_MOS_AWESOMITY
 4. RUN the index.html file
 
-as simple as that and you are good to go
+As simple as that and you are good to go
